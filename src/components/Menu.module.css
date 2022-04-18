@@ -1,0 +1,25 @@
+.menu {
+  color: #FFF;
+}
+.menu a {
+  color: #FFF;
+  text-decoration: none;
+  font-size: 22px;
+  
+}
+.menu ul li {
+  display: inline-flex;
+}
+.menu li {
+  margin-left: 10px;
+}
+.menu li button {
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: red;
+  border: none;
+  color: #FFF;
+  border-radius: 3px;
+  font-weight: bold;
+  margin-left: 30px;
+}
